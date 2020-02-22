@@ -1,0 +1,6 @@
+/home/chakenal/flappie_org_gpu/build/CMakeFiles/flappie_unittest.dir
+/home/chakenal/flappie_org_gpu/build/CMakeFiles/runnie.dir
+/home/chakenal/flappie_org_gpu/build/CMakeFiles/test-verbose.dir
+/home/chakenal/flappie_org_gpu/build/CMakeFiles/flappie.dir
+/home/chakenal/flappie_org_gpu/build/CMakeFiles/flappie_static.dir
+/home/chakenal/flappie_org_gpu/build/CMakeFiles/flappie_objects.dir

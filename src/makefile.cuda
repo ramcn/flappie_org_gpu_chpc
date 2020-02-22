@@ -1,0 +1,9 @@
+CC=gcc
+NVCC=nvcc
+CUDAFLAGS= -c -I/usr/local/cuda/samples/common/inc 
+LIBS= -lpthread -lcudart -lcublas
+LIBDIRS=-L/usr/local/cuda-10.2/lib64
+INCDIRS=-I/usr/local/cuda-10.2/include
+grugpu.o: grugpu.cu
+	$(NVCC) -O3 $(CUDAFLAGS)  grugpu.cu
+
